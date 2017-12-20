@@ -9,7 +9,6 @@ nav {
   position: fixed;
   width: 100%;
 
-
 section {
   margin: 0 auto;
   width: 60%;
@@ -20,12 +19,9 @@ h1 {
   font-size: 2em;
 }
 
-.example, h3 {
+h2.example  {
   padding-top: 30px;
   text-align center
-}
-
-h3 {
   font-size: 1.3em;
 }
 
